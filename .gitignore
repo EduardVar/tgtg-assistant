@@ -1,0 +1,6 @@
+.env
+old_productions/
+production/
+notes/
+tests/
+__pycache__/
